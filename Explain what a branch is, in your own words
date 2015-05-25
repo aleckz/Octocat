@@ -1,0 +1,1 @@
+Branches are secondary parts of a repository where files from the original, or 'master' branch can be edited without affecting their original state - until someone decides to merge a branch with the master in which case the files become identical
